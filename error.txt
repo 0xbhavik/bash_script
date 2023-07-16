@@ -1,0 +1,17 @@
+./script.sh: line 9: kill: (33240) - No such process
+./script.sh: line 9: kill: (33414) - No such process
+./script.sh: line 9: kill: (33428) - No such process
+./script.sh: line 9: kill: (33429) - No such process
+./script.sh: line 9: kill: (33430) - No such process
+./script.sh: line 9: kill: (33431) - No such process
+./script.sh: line 9: kill: (33432) - No such process
+./script.sh: line 9: kill: (33434) - No such process
+./script.sh: line 9: kill: (33435) - No such process
+./script.sh: line 9: kill: (33436) - No such process
+./script.sh: line 9: kill: (33438) - No such process
+./script.sh: line 9: kill: (33439) - No such process
+./script.sh: line 9: kill: (33441) - No such process
+./script.sh: line 9: kill: (33448) - No such process
+./script.sh: line 9: kill: (33449) - No such process
+./script.sh: line 9: kill: (33453) - No such process
+./script.sh: line 9: kill: (33467) - No such process
